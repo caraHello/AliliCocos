@@ -1,0 +1,6 @@
+framework module Alili_CocosSDK {
+  umbrella header "Alili_CocosSDK.h"
+
+  export *
+  module * { export * }
+}
